@@ -132,7 +132,17 @@ Added products in App Store and Play Store account
 
 - **📱 Android Screenshots :**
  <p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
-  Coming soon...
+  <center>
+   <img src="./images/NirmolakHeera/android/1.jpg" alt="NirmolakHeera Screen 1" style="margin: 5px; height: 400px; object-fit: contain;"/>
+   <img src="./images/NirmolakHeera/android/2.jpg" alt="NirmolakHeera Screen 2" style="margin: 5px; height: 400px; object-fit: contain;"/>
+   <img src="./images/NirmolakHeera/android/3.jpg" alt="NirmolakHeera Screen 3" style="margin: 5px; height: 400px; object-fit: contain;"/>
+   <img src="./images/NirmolakHeera/android/4.jpg" alt="NirmolakHeera Screen 4" style="margin: 5px; height: 400px; object-fit: contain;"/>
+   <img src="./images/NirmolakHeera/android/5.jpg" alt="NirmolakHeera Screen 5" style="margin: 5px; height: 400px; object-fit: contain;"/>
+   <img src="./images/NirmolakHeera/android/6.jpg" alt="NirmolakHeera Screen 6" style="margin: 5px; height: 400px; object-fit: contain;"/>
+   <img src="./images/NirmolakHeera/android/7.jpg" alt="NirmolakHeera Screen 7" style="margin: 5px; height: 400px; object-fit: contain;"/>
+   <img src="./images/NirmolakHeera/android/8.jpg" alt="NirmolakHeera Screen 8" style="margin: 5px; height: 400px; object-fit: contain;"/>
+</center>
+
   </p>
 
 - **🍏 iOS Screenshots :**

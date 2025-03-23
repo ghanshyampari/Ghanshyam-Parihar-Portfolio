@@ -1,4 +1,4 @@
-# Ghanshyam Parihar - Portfolio 🚀
+# Ghanshyam Parihar - Portfolio
 
 ## Projects
 ### 1. BeBestTherapy App

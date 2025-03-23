@@ -96,3 +96,34 @@ Added products in App Store and Play Store account
 - **🍏 iOS Screenshots :**
  <p align="center"> Coming soon... </p>
 
+
+### 🚀 NirmolakHeera App (Android)  
+
+#### 🌟 Best Feature
+- MP3 player functionality (design and integration)
+- API integrations (entire app)
+#### 🌐 App Features
+- Home: Main landing page of the app.
+- MP3s: Collection of audio files available for streaming and download.
+- Playlist: Manage playlists created by users.
+- Videos: Watch related videos within the app.
+- Gallery: View and browse images and photos.
+- Upcoming Events: Stay updated with upcoming programs and events.
+- Punjabi Toys: Explore and purchase educational Punjabi toys.
+- Learn Punjabi: Access resources to learn the Punjabi language.
+- Blogs: Read articles related to Sikhism, Punjabi culture, and other topics.
+- Contact Us: Get support and share feedback.
+- Join Our Team: Learn about team opportunities and how to be part of the project.
+
+#### 🐛 Bug Fixes
+- Push Notification Categories   
+- Blog - image width & content space issue  
+- Playlist items screen - Add to playlist not working  
+- Playlist / My Saved / list - items not playing or downloading  
+- MP3 - Add to playlist not working  
+- Playlists & MP3 - Add to playlist modal close (red) button alignment issue  
+- Removed Expo dependencies (Create New Project, App Icon, Splashscreen, Statusbar, Download audio issue)  
+- **Creating APK & .AAB files**  
+- #### Deployed to Play Store (v5.2.5)
+- Fixed app crash on Android 8.1.0
+

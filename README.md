@@ -97,16 +97,19 @@ Added products in App Store and Play Store account
  <p align="center"> Coming soon... </p>
 
 
-### 🚀 NirmolakHeera App (Android)  
+### 🚀 NirmolakHeera App (Android/iOS)  
+- **Tech Stack:** React Native, Firebase
+- **Features:** Login with Google, Facebook and Apple, Crash Analytics, MP3 Player, Push Notifications, In App Notifications
 
 #### 🌟 Best Feature
 - MP3 player functionality (design and integration)
 - API integrations (entire app)
+
 #### 🌐 App Features
-- Home: Main landing page of the app.
+- Home: Main page of the app.
 - MP3s: Collection of audio files available for streaming and download.
 - Playlist: Manage playlists created by users.
-- Videos: Watch related videos within the app.
+- Videos: Watch related videos within the app(YT integration).
 - Gallery: View and browse images and photos.
 - Upcoming Events: Stay updated with upcoming programs and events.
 - Punjabi Toys: Explore and purchase educational Punjabi toys.
@@ -127,3 +130,10 @@ Added products in App Store and Play Store account
 - #### Deployed to Play Store (v5.2.5)
 - Fixed app crash on Android 8.1.0
 
+- **📱 Android Screenshots :**
+ <p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+  Coming soon...
+  </p>
+
+- **🍏 iOS Screenshots :**
+ <p align="center"> Coming soon... </p>

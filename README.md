@@ -4,6 +4,29 @@
 ### 1. BeBestTherapy App
 - **Tech Stack:** React Native
 - **Features:** In-app purchase
+
+#### 🛒 Store Management
+Added products in App Store and Play Store account
+
+#### ✅ Completed Tasks  
+- In App Purchase integration  
+- Welcome Screen Design issue (Android)  
+- API Level 14 upgrade  
+- Code verification and merge  
+- Created 2 APKs  
+
+#### 🌐 API Development  
+- API development and migration  
+- Fixed chat issue  
+- Implemented payment flow for trial  
+- Deployed build (v1.1.0, 1.1.1, 1.1.2, 1.1.3, 1.1.4)  
+- API code migration  
+
+#### ✨ Enhancements  
+- Home screen changes  
+- Created APK & AAB  
+- Deployed build (v1.1.5)
+
 - **📱 Android Screenshots :**
  <p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
    <img src="./images/BeBestTherapy/android/1.png" alt="BeBestTherapy Screen 1" style="margin: 5px; height: 400px; object-fit: contain;"/>
@@ -26,7 +49,7 @@
 </p>
 
 
-
+#### iOS app deployed (v1.2(1))
 - **🍏 iOS Screenshots :**
  <p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
    <img src="./images/BeBestTherapy/ios/UpgradToPro.jpg" alt="BeBestTherapy Upgrade to Pro" style="margin: 5px; height: 400px; object-fit: contain;"/>

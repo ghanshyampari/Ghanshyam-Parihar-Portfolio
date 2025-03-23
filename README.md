@@ -1,5 +1,3 @@
-# Ghanshyam Parihar - Portfolio
-
 ## Projects
 ### 1. BeBestTherapy App
 - **Tech Stack:** React Native

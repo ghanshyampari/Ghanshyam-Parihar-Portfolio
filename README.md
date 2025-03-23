@@ -10,11 +10,11 @@
    <img src="./images/android/2.png" alt="BeBestTherapy Screen 2" style="margin: 5px; height: 400px; object-fit: contain;"/>
    <img src="./images/android/3.png" alt="BeBestTherapy Screen 3" style="margin: 5px; height: 400px; object-fit: contain;"/>
    <img src="./images/android/4.png" alt="BeBestTherapy Screen 4" style="margin: 5px; height: 400px; object-fit: contain;"/>
-   <img src="./images/android/5.png" alt="BeBestTherapy Screen 5" style="margin: 5px; height: 400px; object-fit: contain;"/>
-   <img src="./images/android/6.png" alt="BeBestTherapy Screen 6" style="margin: 5px; height: 400px; object-fit: contain;"/>
-   <img src="./images/android/7.png" alt="BeBestTherapy Screen 7" style="margin: 5px; height: 400px; object-fit: contain;"/>
-   <img src="./images/android/8.png" alt="BeBestTherapy Screen 8" style="margin: 5px; height: 400px; object-fit: contain;"/>
-   <img src="./images/android/9.png" alt="BeBestTherapy Screen 9" style="margin: 5px; height: 400px; object-fit: contain;"/>
+   <img src="./images/android/5.jpg" alt="BeBestTherapy Screen 5" style="margin: 5px; height: 400px; object-fit: contain;"/>
+   <img src="./images/android/6.jpg" alt="BeBestTherapy Screen 6" style="margin: 5px; height: 400px; object-fit: contain;"/>
+   <img src="./images/android/7.jpg" alt="BeBestTherapy Screen 7" style="margin: 5px; height: 400px; object-fit: contain;"/>
+   <img src="./images/android/8.jpg" alt="BeBestTherapy Screen 8" style="margin: 5px; height: 400px; object-fit: contain;"/>
+   <img src="./images/android/9.jpg" alt="BeBestTherapy Screen 9" style="margin: 5px; height: 400px; object-fit: contain;"/>
    <img src="./images/android/10.png" alt="BeBestTherapy Screen 10" style="margin: 5px; height: 400px; object-fit: contain;"/>
    <img src="./images/android/11.png" alt="BeBestTherapy Screen 11" style="margin: 5px; height: 400px; object-fit: contain;"/>
    <img src="./images/android/12.png" alt="BeBestTherapy Screen 12" style="margin: 5px; height: 400px; object-fit: contain;"/>

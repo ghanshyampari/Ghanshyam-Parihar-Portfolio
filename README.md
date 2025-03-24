@@ -1,5 +1,7 @@
-![Logo](./images/logo.png){:width="50"} Ghanshyam Parihar - Developer Portfolio
-
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="./images/logo.png" alt="Logo" style="height: 50px;">
+  <h1>Ghanshyam Parihar - Developer Portfolio</h1>
+</div>
 Welcome to my personal portfolio website! I am Ghanshyam Parihar, a passionate developer with experience in building web applications and mobile applications using React Native, PHP and other technologies. This portfolio showcases my projects and the skills I have acquired throughout my development journey.
 
 ## Technologies Used
